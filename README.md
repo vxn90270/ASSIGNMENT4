@@ -11,7 +11,7 @@ QUESTION-3: Here we use the scaling clustering which is different from k-means c
 
 When compared to scores of  k-means clustering and scaling clustering, scaling clustering score is high compared to k-means clustering 
 
-Video-link: https://drive.google.com/drive/folders/1r6k8qk4xEfT_ZEBcUdGP0je9VyIybBuZ
+Video-link: https://drive.google.com/file/d/1Www0pK3g70lgMnR9F0ESvmrwJ9niBBpW/view?usp=share_link
 
 Thanks 
 Krishna 
