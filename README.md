@@ -9,7 +9,7 @@ QUESTION-2: Here we use the k-means clustering first we will find out the head d
 
 QUESTION-3: Here we use the scaling clustering which is different from k-means clustering  here we use the preprocessing scaling and fix it in the scaler and inorder to get the array we use transform and next with the sklearn cluster we will fix it in a k-means clusters and also to predict the scaling cluster and to find out the score we will need to print the score after applying scaling we will get the silhouette score after applying scaling 
 
-When compared to scores of  k-means clustering and scaling clustering, scaling clustering score is high compared to k-means clustering 
+Here the silhouette score of k-means clustering is greater than the silhouette score after scaling.
 
 Video-link: https://drive.google.com/file/d/1Www0pK3g70lgMnR9F0ESvmrwJ9niBBpW/view?usp=share_link
 
